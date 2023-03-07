@@ -49,9 +49,7 @@ public class EmptyBrowser {
 		//
 		driver.findElement(By.id("loginButton")).click();
 		
-		//pushed
-		
-		//pulled
+		//welcome
 
 	}
 }
