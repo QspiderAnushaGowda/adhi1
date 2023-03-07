@@ -1,0 +1,10 @@
+browser1    chrome			
+url1        https://demo.actitime.com/login.do
+username1   admin	
+password1   manager
+
+browser    chrome
+url        http://localhost:8888/
+username   admin	
+password   admin
+organizationName Qspider
