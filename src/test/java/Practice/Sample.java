@@ -16,6 +16,8 @@ public class Sample {
 	public void t2()
 	{
 		System.out.println("sql");
+		System.out.println("sql");
+		
 	}
 
 }
