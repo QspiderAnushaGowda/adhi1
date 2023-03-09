@@ -11,5 +11,11 @@ public class Sample {
 		
 		System.out.println("manual ");
 	}
+	
+	@Test
+	public void t2()
+	{
+		System.out.println("sql");
+	}
 
 }
